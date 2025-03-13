@@ -1,4 +1,4 @@
-# airQualityChecker
+# Air Quality Checker
 Air quality checker application written in python with the help of geocoder, time and requests.
 
 ## How it Works:
