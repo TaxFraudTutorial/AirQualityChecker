@@ -9,4 +9,4 @@ Air quality checker application written in python with the help of geocoder, tim
 
 Make sure to edit the code and add your own API key from [Open Meteo](https://open-meteo.com/en/docs) and place it in the api key variable at the top.
 
-Enjoy
+Enjoy ❤️
